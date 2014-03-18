@@ -1,2 +1,3 @@
 New file A
 Content changed
+A new line
