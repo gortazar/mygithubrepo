@@ -1,1 +1,2 @@
 New file B
+Content B changed too
